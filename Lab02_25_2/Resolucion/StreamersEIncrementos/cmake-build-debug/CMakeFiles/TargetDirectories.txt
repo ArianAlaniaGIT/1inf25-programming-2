@@ -1,0 +1,3 @@
+C:/Users/arian/OneDrive/Documentos/Laboratorio2_2025_2/StreamersEIncrementos/cmake-build-debug/CMakeFiles/StreamersEIncrementos.dir
+C:/Users/arian/OneDrive/Documentos/Laboratorio2_2025_2/StreamersEIncrementos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arian/OneDrive/Documentos/Laboratorio2_2025_2/StreamersEIncrementos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
