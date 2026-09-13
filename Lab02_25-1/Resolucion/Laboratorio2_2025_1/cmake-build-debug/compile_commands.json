@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/arian/OneDrive/Documentos/Lab02/Laboratorio2_2025_1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Laboratorio2_2025_1.dir\\main.cpp.obj -c C:\\Users\\arian\\OneDrive\\Documentos\\Lab02\\Laboratorio2_2025_1\\main.cpp",
+  "file": "C:/Users/arian/OneDrive/Documentos/Lab02/Laboratorio2_2025_1/main.cpp",
+  "output": "C:/Users/arian/OneDrive/Documentos/Lab02/Laboratorio2_2025_1/cmake-build-debug/CMakeFiles/Laboratorio2_2025_1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/arian/OneDrive/Documentos/Lab02/Laboratorio2_2025_1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Laboratorio2_2025_1.dir\\Bibliotecas\\funciones.cpp.obj -c C:\\Users\\arian\\OneDrive\\Documentos\\Lab02\\Laboratorio2_2025_1\\Bibliotecas\\funciones.cpp",
+  "file": "C:/Users/arian/OneDrive/Documentos/Lab02/Laboratorio2_2025_1/Bibliotecas/funciones.cpp",
+  "output": "C:/Users/arian/OneDrive/Documentos/Lab02/Laboratorio2_2025_1/cmake-build-debug/CMakeFiles/Laboratorio2_2025_1.dir/Bibliotecas/funciones.cpp.obj"
+}
+]
