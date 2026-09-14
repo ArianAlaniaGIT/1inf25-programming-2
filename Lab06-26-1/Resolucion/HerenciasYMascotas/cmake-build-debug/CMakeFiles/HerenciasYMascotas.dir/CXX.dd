@@ -1,0 +1,15 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/HerenciasYMascotas.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Mascota.cpp.obj: dyndep
+
+build CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Cita.cpp.obj: dyndep
+
+build CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Control.cpp.obj: dyndep
+
+build CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Operacion.cpp.obj: dyndep
+
+build CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Vacuna.cpp.obj: dyndep
+
+build CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Veterinaria.cpp.obj: dyndep
+

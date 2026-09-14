@@ -1,0 +1,57 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas",
+	"dir-top-bld" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/cmake-build-debug",
+	"dir-top-src" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/cmake-build-debug/CMakeFiles/HerenciasYMascotas.dir",
+	"sources" : 
+	{
+		"CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Cita.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/Bibliotecas/Cita.cpp"
+		},
+		"CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Control.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/Bibliotecas/Control.cpp"
+		},
+		"CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Mascota.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/Bibliotecas/Mascota.cpp"
+		},
+		"CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Operacion.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/Bibliotecas/Operacion.cpp"
+		},
+		"CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Vacuna.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/Bibliotecas/Vacuna.cpp"
+		},
+		"CMakeFiles/HerenciasYMascotas.dir/Bibliotecas/Veterinaria.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/Bibliotecas/Veterinaria.cpp"
+		},
+		"CMakeFiles/HerenciasYMascotas.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/main.cpp"
+		}
+	}
+}
