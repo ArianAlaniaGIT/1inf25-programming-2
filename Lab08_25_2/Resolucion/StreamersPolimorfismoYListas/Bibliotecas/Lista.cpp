@@ -4,7 +4,6 @@
 
 #include "Lista.h"
 
-#include <list>
 
 Lista::Lista() {
     crearLista();
@@ -32,9 +31,9 @@ void Lista::insertarEnOrden(Metrica *metrica, char *tipo) {
         char descripcion2[100];
         metrica->get_descripcion(descripcion1);
         while (recorrido) {
-
             recorrido->metrica->get_descripcion(descripcion2);
-            if (recorrido->metrica->getTipo() > metrica->getTipo() or (strcmp(descripcion2,descripcion1)>0 and recorrido->metrica->getTipo() == metrica->getTipo())) {
+            if (recorrido->metrica->getTipo() > metrica->getTipo() or 
+                (strcmp(descripcion2,descripcion1)>0 and recorrido->metrica->getTipo() == metrica->getTipo())) {
                 break;
             }
 
@@ -49,14 +48,11 @@ void Lista::insertarEnOrden(Metrica *metrica, char *tipo) {
             nuevoNodo->siguiente = listaDoblementeLigada;
             listaDoblementeLigada->anterior = nuevoNodo;
             listaDoblementeLigada = nuevoNodo;
-
         } else {
-
             nuevoNodo->siguiente = recorrido;
             nuevoNodo->anterior = recorrido->anterior;
             recorrido->anterior->siguiente = nuevoNodo;
             recorrido->anterior = nuevoNodo;
-
         }
     }
 
