@@ -1,6 +1,3 @@
-
-
-
 #include "Bibliotecas/PunterosGenericos.h"
 
 int main(int argc, char**argv) {
