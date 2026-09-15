@@ -1,10 +1,5 @@
 
 
-/* Nombre: Arian Alfonso Alania Novoa */
-/* Código: 20221762 */
-/* Laboratorio 3: Punteros Genéricos */
-
-/* Programación 2 - 2025-2 */
 
 #include "Bibliotecas/PunterosGenericos.h"
 
