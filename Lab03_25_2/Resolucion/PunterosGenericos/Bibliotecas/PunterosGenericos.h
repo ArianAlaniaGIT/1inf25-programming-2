@@ -11,11 +11,6 @@
 #include <cstring>
 using namespace std;
 
-/* Nombre: Arian Alfonso Alania Novoa */
-/* Código: 20221762 */
-/* Laboratorio 3: Punteros Genéricos */
-
-/* Programación 2 - 2025-2 */
 
 void cargastreamers(void *&str);
 void *darConLosStreamers(ifstream &arch);
