@@ -1,1 +1,9 @@
+*.h linguist-language=C++
+*.hpp linguist-language=C++
+*.cpp linguist-language=C++
+*.cxx linguist-language=C++
+*.i linguist-language=C++
+*.i linguist-detectable=false
 
+# Ignorar estadísticas de archivos no deseados si aún existen
+cmake-build-debug/* linguist-vendored
