@@ -1,3 +1,0 @@
-C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/cmake-build-debug/CMakeFiles/HerenciasYMascotas.dir
-C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/arian/OneDrive/Documentos/Lab06-26-1/Resolucion/HerenciasYMascotas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
