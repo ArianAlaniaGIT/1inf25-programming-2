@@ -1,5 +1,5 @@
 //
-// Created by alulab14 on 19/09/2025.
+// Created by arian on 19/09/2025.
 //
 
 #include "PunterosGenericos.h"
