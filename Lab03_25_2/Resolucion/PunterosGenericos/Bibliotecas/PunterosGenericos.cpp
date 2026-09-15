@@ -40,19 +40,19 @@ void pruebaStreamers(void *str) {
     }
 }
 
-void incrementarEspacios(void**&streamers, int &mind, int &cap) {
+void incrementarEspacios(void**&arr, int &mind, int &cap) {
     cap += INCREMENTO;
     void **aux;
-    if (streamers == nullptr) {
-        streamers = new void*[cap]{};
+    if (arr == nullptr) {
+        arr = new void*[cap]{};
         mind = 1;
     } else {
         aux = new void*[cap]{};
         for (int i = 0; i < mind; i++) {
-            aux[i] = streamers[i];
+            aux[i] = arr[i];
         }
-        delete streamers;
-        streamers = aux;
+        delete arr;
+        arr = aux;
     }
 }
 
