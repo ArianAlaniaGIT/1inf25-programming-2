@@ -6,11 +6,6 @@
 
 #define INCREMENTO 5
 
-/* Nombre: Arian Alfonso Alania Novoa */
-/* Código: 20221762 */
-/* Laboratorio 3: Punteros Genéricos */
-
-/* Programación 2 - 2025-2 */
 
 void cargastreamers(void *&str) {
     ifstream arch("Archivos/streamers.csv",ios::in);
