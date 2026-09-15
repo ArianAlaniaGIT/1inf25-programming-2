@@ -15,7 +15,7 @@ using namespace std;
 void cargastreamers(void *&str);
 void *darConLosStreamers(ifstream &arch);
 char *leerCadenaExacta(ifstream &arch, int max, char delim);
-void incrementarEspacios(void**&streamers, int &mind, int &cap);
+void incrementarEspacios(void**&arr, int &mind, int &cap);
 void pruebaStreamers(void *str);
 void cargacomentarios(void *&comen);
 void *darConLosComentarios(ifstream &arch);
