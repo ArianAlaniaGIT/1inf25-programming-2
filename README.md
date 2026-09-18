@@ -1,5 +1,5 @@
 # 1inf25-programming-2
-Here are some of the labs that i've been working lately (most of them focused on those who were from 2025)
+Here are some of the labs that i've been working lately (most of them focused on those who were from 2025). And before you ask me, yes, even that I passed the course, I've decided to create this to help others who struggle with this course.
 
 Topics from the labs:
 - Lab 1 - Functions and variable scope
