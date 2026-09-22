@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: buster | SEGUIDORES:  1087377 | CATEGORIA: Minecraft | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   9.3 | VIEWERS_PROM_GLOBAL:   709 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0028       20250601       20251031    EXPIRADA       5.2       377M      Sesión Games
+MB-0055       20250603       20251231    ACTIVA       4.1       332M      Sesión Games
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 4917 kbps | DROP%_PROM: 0.082 | FPS_PROM: 60 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3035       20250601       20251031    EXPIRADA      4917       0.082        60      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

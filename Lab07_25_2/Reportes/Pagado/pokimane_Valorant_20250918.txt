@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: pokimane | SEGUIDORES:  5367605 | CATEGORIA: Valorant | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   3949 | CHATTERS_UNICOS:  1736 | CLIPS:  135 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0106       20250601       20251031    EXPIRADA       1320      695         69       Clips del evento
+ME-0155       20250627       20251231    ACTIVA       2629     1041         66       Comunidad fiel
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

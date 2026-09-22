@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Sacriel | SEGUIDORES:   672403 | CATEGORIA: Fortnite | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   1535 | CHATTERS_UNICOS:   553 | CLIPS:   54 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0121       20251017       20251031    EXPIRADA       1535      553         54       Maratón de chat
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 4348 kbps | DROP%_PROM: 0.215 | FPS_PROM: 60 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3038       20250620       20251031    EXPIRADA      4348       0.215        60      FPS sólidos
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 0 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

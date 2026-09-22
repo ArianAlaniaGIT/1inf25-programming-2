@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: dakotaz | SEGUIDORES:  4520305 | CATEGORIA: Valorant | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   2106 | CHATTERS_UNICOS:  1079 | CLIPS:   33 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0125       20251231       20251231    ACTIVA       2106     1079         33       Clips del evento
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 5899 kbps | DROP%_PROM: 0.085 | FPS_PROM: 75 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3012       20251215       20251231    ACTIVA      5899       0.085        75      Audio impecable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

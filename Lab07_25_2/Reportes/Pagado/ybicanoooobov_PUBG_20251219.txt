@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: ybicanoooobov | SEGUIDORES:   523512 | CATEGORIA: PUBG | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   6.5 | VIEWERS_PROM_GLOBAL:  1116 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0044       20251126       20251231    ACTIVA       6.5      1116M      Sesión Games
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 16499 kbps | DROP%_PROM: 0.342 | FPS_PROM: 210 | ACTIVAS: 2 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3059       20250708       20251031    EXPIRADA      4752       0.156        75      FPS sólidos
+MC-3017       20251005       20251231    ACTIVA      3534       0.126        75      Audio impecable
+MC-3015       20250822       20251231    ACTIVA      8213        0.06        60      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

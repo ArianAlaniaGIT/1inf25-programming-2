@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: TheGrefg | SEGUIDORES:  3795667 | CATEGORIA: Fortnite | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   5.7 | VIEWERS_PROM_GLOBAL:   629 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0038       20250601       20251031    EXPIRADA       5.7       629M      Sesión Games
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:    636 | CHATTERS_UNICOS:   791 | CLIPS:   73 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0138       20250601       20251031    EXPIRADA        636      791         73       Comunidad fiel
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 0 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

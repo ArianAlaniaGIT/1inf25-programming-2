@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Vader | SEGUIDORES:   424374 | CATEGORIA: JustChatting | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   6.5 | VIEWERS_PROM_GLOBAL:   270 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0052       20251107       20251231    ACTIVA       6.5       270M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 9520 kbps | DROP%_PROM: 0.087 | FPS_PROM: 125 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3049       20251112       20251231    ACTIVA      2674       0.013        50      Picos de red
+MQ-3060       20250906       20251231    ACTIVA      6846       0.074        75      FPS sólidos
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

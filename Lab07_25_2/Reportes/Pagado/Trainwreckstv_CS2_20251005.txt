@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Trainwreckstv | SEGUIDORES:   728097 | CATEGORIA: CS2 | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   1270 | CHATTERS_UNICOS:   932 | CLIPS:   82 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0158       20250622       20251231    ACTIVA       1270      932         82       Q&A largo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 6172 kbps | DROP%_PROM: 0.195 | FPS_PROM: 75 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3055       20250601       20251031    EXPIRADA      6172       0.195        75      FPS sólidos
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

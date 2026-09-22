@@ -1,0 +1,23 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: YoDa | SEGUIDORES:  1792625 | CATEGORIA: Minecraft | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     5 | VIEWERS_PROM_GLOBAL:  1654 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0023       20250920       20251031    EXPIRADA         1       659M      Sesión IRL
+MB-0060       20250712       20251231    ACTIVA         4       995M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   6854 | CHATTERS_UNICOS:  1385 | CLIPS:  172 | ACTIVAS: 3 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0153       20250729       20251231    ACTIVA       2776      108         95       Q&A largo
+ME-0112       20250728       20251231    ACTIVA       1507      130         10       Chat activo
+ME-0119       20250806       20251231    ACTIVA       2571     1147         67       Maratón de chat
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 4917 kbps | DROP%_PROM: 0.187 | FPS_PROM: 50 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3037       20251229       20251231    ACTIVA      4917       0.187        50      Calidad estable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 5 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

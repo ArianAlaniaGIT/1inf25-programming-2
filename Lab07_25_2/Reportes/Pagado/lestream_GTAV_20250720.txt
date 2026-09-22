@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: lestream | SEGUIDORES:   883706 | CATEGORIA: GTAV | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   2869 | CHATTERS_UNICOS:   973 | CLIPS:   82 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0103       20250828       20251231    ACTIVA       2869      973         82       Q&A largo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 3685 kbps | DROP%_PROM: 0.247 | FPS_PROM: 75 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3052       20250810       20251231    ACTIVA      3685       0.247        75      Audio impecable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

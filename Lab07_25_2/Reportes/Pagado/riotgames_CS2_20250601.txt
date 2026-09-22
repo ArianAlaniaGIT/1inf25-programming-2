@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: riotgames | SEGUIDORES:  4487489 | CATEGORIA: CS2 | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   5.8 | VIEWERS_PROM_GLOBAL:   731 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0024       20251008       20251231    ACTIVA       5.8       731M      Sesión Estrenos
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   4210 | CHATTERS_UNICOS:  1508 | CLIPS:  198 | ACTIVAS: 0 | EXPIRADAS: 2
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0169       20250624       20251031    EXPIRADA        469      631         78       Interacción alta
+ME-0123       20250915       20251031    EXPIRADA       3741      877        120       Q&A largo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

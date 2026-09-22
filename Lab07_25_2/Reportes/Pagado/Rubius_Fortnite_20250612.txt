@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Rubius | SEGUIDORES:  5751354 | CATEGORIA: Fortnite | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   7003 | CHATTERS_UNICOS:  1972 | CLIPS:  172 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0136       20250819       20251231    ACTIVA       3374      892         96       Chat activo
+ME-0146       20250719       20251031    EXPIRADA       3629     1080         76       Chat activo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 4671 kbps | DROP%_PROM: 0.085 | FPS_PROM: 60 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3019       20250620       20251231    ACTIVA      4671       0.085        60      Bitrate consistente
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Bugha | SEGUIDORES:  2942212 | CATEGORIA: CS2 | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     4 | VIEWERS_PROM_GLOBAL:  1063 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0069       20251228       20251231    ACTIVA       2.3       168M      Sesión Retro
+MB-0008       20251204       20251231    ACTIVA       1.7       895M      Sesión Just Chatting
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:    793 | CHATTERS_UNICOS:   283 | CLIPS:  102 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0160       20250918       20251031    EXPIRADA        793      283        102       Chat activo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: LIRIK | SEGUIDORES:  2666382 | CATEGORIA: Fortnite | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   3.6 | VIEWERS_PROM_GLOBAL:   442 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0046       20250615       20251031    EXPIRADA       3.6       442M      Sesión Just Chatting
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 5497 kbps | DROP%_PROM: 0.133 | FPS_PROM: 50 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3036       20250704       20251231    ACTIVA      5497       0.133        50      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

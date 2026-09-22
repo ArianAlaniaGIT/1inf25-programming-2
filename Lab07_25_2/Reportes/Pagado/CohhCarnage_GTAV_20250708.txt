@@ -1,0 +1,18 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: CohhCarnage | SEGUIDORES:  1264808 | CATEGORIA: GTAV | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     5 | VIEWERS_PROM_GLOBAL:   321 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0037       20250914       20251231    ACTIVA         5       321M      Sesión Just Chatting
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

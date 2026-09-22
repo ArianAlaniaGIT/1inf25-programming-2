@@ -1,0 +1,19 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: stylishnoob4 | SEGUIDORES:   354579 | CATEGORIA: CS2 | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   2.3 | VIEWERS_PROM_GLOBAL:   118 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0141       20250716       20251231    ACTIVA       2.3       118M      Comunidad fiel
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   3753 | CHATTERS_UNICOS:   596 | CLIPS:  111 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0130       20251210       20251231    ACTIVA       3753      596        111       Interacción alta
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

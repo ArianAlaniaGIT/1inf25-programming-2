@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: TimTheTatman | SEGUIDORES:  5265659 | CATEGORIA: JustChatting | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   3.2 | VIEWERS_PROM_GLOBAL:   569 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0018       20250918       20251231    ACTIVA       3.2       569M      Sesión Games
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   5192 | CHATTERS_UNICOS:  1175 | CLIPS:  125 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0115       20251115       20251231    ACTIVA       1173      950         33       Chat activo
+ME-0163       20250813       20251231    ACTIVA       4019      225         92       Chat activo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

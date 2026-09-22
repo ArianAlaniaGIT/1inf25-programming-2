@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Yassuo | SEGUIDORES:  1878416 | CATEGORIA: Fortnite | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT: 16.69 | VIEWERS_PROM_GLOBAL:  1212 | ACTIVAS: 1 | EXPIRADAS: 2
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0027       20250801       20251031    EXPIRADA       5.8       281M      Sesión Just Chatting
+MB-0109       20250817       20251031    EXPIRADA      7.39        64M      Comunidad fiel
+MB-0011       20250626       20251231    ACTIVA       3.5       867M      Sesión Games
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   2498 | CHATTERS_UNICOS:   740 | CLIPS:  114 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0142       20250920       20251231    ACTIVA       2498      740        114       Chat activo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

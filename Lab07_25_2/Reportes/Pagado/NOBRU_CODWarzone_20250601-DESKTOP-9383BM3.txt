@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: NOBRU | SEGUIDORES:  1549722 | CATEGORIA: CODWarzone | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     9 | VIEWERS_PROM_GLOBAL:   861 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0063       20250818       20251231    ACTIVA       6.1       201M      Sesión Música
+MB-0057       20250601       20251031    EXPIRADA       2.9       660M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 6528 kbps | DROP%_PROM: 0.115 | FPS_PROM: 110 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3002       20250601       20251031    EXPIRADA      3817       0.082        60      Audio impecable
+MQ-3053       20250629       20251231    ACTIVA      2711       0.033        50      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

@@ -1,0 +1,22 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: hanryang1125 | SEGUIDORES:   494445 | CATEGORIA: Valorant | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   8.9 | VIEWERS_PROM_GLOBAL:   896 | ACTIVAS: 0 | EXPIRADAS: 2
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0005       20251029       20251031    EXPIRADA       5.8       446M      Sesión Retro
+MB-0025       20250601       20251031    EXPIRADA       3.1       450M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   1869 | CHATTERS_UNICOS:   523 | CLIPS:   99 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0151       20251213       20251231    ACTIVA       1869      523         99       Comunidad fiel
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 12031 kbps | DROP%_PROM: 0.182 | FPS_PROM: 90 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3045       20251208       20251231    ACTIVA      5898       0.164        60      FPS sólidos
+MQ-3058       20251004       20251231    ACTIVA      6133       0.018        30      Audio impecable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: forsen | SEGUIDORES:  1308165 | CATEGORIA: CS2 | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   8.4 | VIEWERS_PROM_GLOBAL:  1176 | ACTIVAS: 0 | EXPIRADAS: 2
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0015       20250601       20251031    EXPIRADA       2.5       552M      Sesión IRL
+MB-0048       20250912       20251031    EXPIRADA       5.9       624M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   4696 | CHATTERS_UNICOS:  1313 | CLIPS:  169 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0127       20250703       20251231    ACTIVA        520      886         80       Q&A largo
+ME-0110       20250601       20251031    EXPIRADA       4176      427         89       Interacción alta
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 3 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

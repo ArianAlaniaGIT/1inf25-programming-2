@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Trymacs | SEGUIDORES:  1607134 | CATEGORIA: CODWarzone | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   7406 | CHATTERS_UNICOS:  2044 | CLIPS:  103 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0159       20250728       20251231    ACTIVA       3416     1002         61       Clips del evento
+ME-0162       20250711       20251031    EXPIRADA       3990     1042         42       Interacción alta
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 4131 kbps | DROP%_PROM: 0.25 | FPS_PROM: 60 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3029       20250925       20251231    ACTIVA      4131        0.25        60      Calidad estable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

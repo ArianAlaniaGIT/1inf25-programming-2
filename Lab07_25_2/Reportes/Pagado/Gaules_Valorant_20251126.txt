@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Gaules | SEGUIDORES:  1767635 | CATEGORIA: Valorant | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:  10.6 | VIEWERS_PROM_GLOBAL:  1500 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0056       20250630       20251231    ACTIVA       5.1       438M      Sesión Música
+MB-0068       20250929       20251031    EXPIRADA       5.5      1062M      Sesión Música
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   2753 | CHATTERS_UNICOS:  1613 | CLIPS:   68 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0104       20250907       20251231    ACTIVA       1857      601         10       Maratón de chat
+ME-0113       20251104       20251231    ACTIVA        896     1012         58       Maratón de chat
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 0 kbps | DROP%_PROM: 0 | FPS_PROM: 0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

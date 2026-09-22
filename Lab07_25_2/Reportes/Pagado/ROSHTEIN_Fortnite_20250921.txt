@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: ROSHTEIN | SEGUIDORES:   381918 | CATEGORIA: Fortnite | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:  10.1 | VIEWERS_PROM_GLOBAL:  1521 | ACTIVAS: 1 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0007       20250906       20251031    EXPIRADA       5.7       661M      Sesión Estrenos
+MB-0009       20250815       20251231    ACTIVA       4.4       860M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   2289 | CHATTERS_UNICOS:   288 | CLIPS:   94 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0137       20251030       20251231    ACTIVA       2289      288         94       Clips del evento
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 5535 kbps | DROP%_PROM: 0.054 | FPS_PROM: 60 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MC-3046       20250811       20251031    EXPIRADA      5535       0.054        60      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

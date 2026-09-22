@@ -1,0 +1,22 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Gorgc | SEGUIDORES:   391726 | CATEGORIA: JustChatting | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     4 | VIEWERS_PROM_GLOBAL:   571 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0032       20250826       20251031    EXPIRADA         4       571M      Sesión Just Chatting
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   2640 | CHATTERS_UNICOS:   560 | CLIPS:   39 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0120       20250810       20251231    ACTIVA       2640      560         39       Clips del evento
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 9979 kbps | DROP%_PROM: 0.235 | FPS_PROM: 160 | ACTIVAS: 2 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3001       20251110       20251231    ACTIVA      3247       0.118        60      Audio impecable
+MQ-3026       20251006       20251231    ACTIVA      3672       0.058        50      Estabilidad alta
+MQ-3021       20251017       20251031    EXPIRADA      3060       0.059        50      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Clix | SEGUIDORES:  2035180 | CATEGORIA: Minecraft | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   8.1 | VIEWERS_PROM_GLOBAL:  1234 | ACTIVAS: 0 | EXPIRADAS: 2
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0061       20250629       20251031    EXPIRADA       5.9       425M      Sesión IRL
+MB-0006       20250827       20251031    EXPIRADA       2.2       809M      Sesión Just Chatting
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:      0 | CHATTERS_UNICOS:     0 | CLIPS:    0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 7308 kbps | DROP%_PROM: 0.145 | FPS_PROM: 60 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3013       20250812       20251231    ACTIVA      7308       0.145        60      Picos de red
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 1 | MÉTRICAS EXPIRADAS: 2 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

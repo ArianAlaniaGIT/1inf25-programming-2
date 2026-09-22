@@ -1,0 +1,22 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: HasanAbi | SEGUIDORES:   470123 | CATEGORIA: JustChatting | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     6 | VIEWERS_PROM_GLOBAL:  1853 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0050       20250723       20251231    ACTIVA       2.7       663M      Sesión Variety
+MB-0049       20250611       20251231    ACTIVA       3.3      1190M      Sesión Música
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   1411 | CHATTERS_UNICOS:  1025 | CLIPS:   28 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0128       20250622       20251231    ACTIVA       1411     1025         28       Interacción alta
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 8982 kbps | DROP%_PROM: 0.127 | FPS_PROM: 105 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3010       20250915       20251231    ACTIVA      6368       0.061        75      Picos de red
+MQ-3039       20250624       20251231    ACTIVA      2614       0.066        30      Estabilidad alta
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 5 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

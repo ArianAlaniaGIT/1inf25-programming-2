@@ -1,0 +1,20 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: LCS | SEGUIDORES:  1162746 | CATEGORIA: MTG | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   3839 | CHATTERS_UNICOS:   740 | CLIPS:   82 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0168       20250621       20251231    ACTIVA       3839      740         82       Clips del evento
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 11708 kbps | DROP%_PROM: 0.207 | FPS_PROM: 125 | ACTIVAS: 2 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3024       20250904       20251231    ACTIVA      4500       0.133        75      Bitrate consistente
+MQ-3030       20250906       20251231    ACTIVA      7208       0.074        50      Calidad estable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 0 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

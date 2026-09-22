@@ -1,0 +1,22 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: Method | SEGUIDORES:   401400 | CATEGORIA: JustChatting | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:   2.2 | VIEWERS_PROM_GLOBAL:  1154 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+MB-0003       20250609       20251031    EXPIRADA       2.2      1154M      Sesión IRL
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:  10613 | CHATTERS_UNICOS:  1149 | CLIPS:  175 | ACTIVAS: 2 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0152       20251203       20251231    ACTIVA       2618      285        111       Chat activo
+ME-0147       20251113       20251231    ACTIVA       3971      115         16       Clips del evento
+ME-0129       20250906       20251031    EXPIRADA       4024      749         48       Comunidad fiel
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 8118 kbps | DROP%_PROM: 0.195 | FPS_PROM: 30 | ACTIVAS: 0 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3031       20250810       20251031    EXPIRADA      8118       0.195        30      FPS sólidos
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 2 | MÉTRICAS EXPIRADAS: 3 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================

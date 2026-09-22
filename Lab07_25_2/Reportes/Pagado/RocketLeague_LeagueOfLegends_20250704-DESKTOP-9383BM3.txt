@@ -1,0 +1,21 @@
+========================================================================================================================
+                                                  REPORTE DE STREAMERS
+========================================================================================================================
+
+[ST] CUENTA: RocketLeague | SEGUIDORES:  1409120 | CATEGORIA: LeagueOfLegends | TIPO: StreamerPago
+------------------------------------------------------------------------------------------------------------------------
+[BASIC] HORAS_TOT:     0 | VIEWERS_PROM_GLOBAL:     0 | ACTIVAS: 0 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado      Horas    Viewers     Descripcion
+------------------------------------------------------------------------------------------------------------------------
+[ENGAGE] CHAT_MSGS:   6339 | CHATTERS_UNICOS:  1800 | CLIPS:  212 | ACTIVAS: 2 | EXPIRADAS: 1
+Codigo       Fecha Calc.     Expira      Estado       Msgs   Chatters      Clips     Descripcion
+ME-0154       20250810       20251031    EXPIRADA        746      678         94       Chat activo
+ME-0118       20250918       20251231    ACTIVA       3952      405        100       Comunidad fiel
+ME-0135       20251209       20251231    ACTIVA       1641      717         18       Q&A largo
+------------------------------------------------------------------------------------------------------------------------
+[QUALITY] BITRATE_PROM: 4993 kbps | DROP%_PROM: 0.249 | FPS_PROM: 30 | ACTIVAS: 1 | EXPIRADAS: 0
+Codigo       Fecha Calc.     Expira      Estado    Bitrate      Drop%        FPS     Descripcion
+MQ-3043       20250612       20251231    ACTIVA      4993       0.249        30      Calidad estable
+------------------------------------------------------------------------------------------------------------------------
+[TOTAL] MÉTRICAS ACTIVAS: 3 | MÉTRICAS EXPIRADAS: 1 | FECHA DE REPORTE: 2025-11-07
+========================================================================================================================
