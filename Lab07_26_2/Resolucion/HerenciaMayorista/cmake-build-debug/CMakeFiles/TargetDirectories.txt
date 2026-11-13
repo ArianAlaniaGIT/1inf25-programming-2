@@ -1,3 +1,0 @@
-C:/Users/arian/OneDrive/Documentos/Lab07_26_2/Resolucion/HerenciaMayorista/cmake-build-debug/CMakeFiles/HerenciaMayorista.dir
-C:/Users/arian/OneDrive/Documentos/Lab07_26_2/Resolucion/HerenciaMayorista/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/arian/OneDrive/Documentos/Lab07_26_2/Resolucion/HerenciaMayorista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
