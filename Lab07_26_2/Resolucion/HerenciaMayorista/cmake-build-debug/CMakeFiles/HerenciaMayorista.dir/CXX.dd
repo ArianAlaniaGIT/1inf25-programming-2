@@ -1,0 +1,15 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/HerenciaMayorista.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/HerenciaMayorista.dir/Bibliotecas/Producto.cpp.obj: dyndep
+
+build CMakeFiles/HerenciaMayorista.dir/Bibliotecas/DetalleVenta.cpp.obj: dyndep
+
+build CMakeFiles/HerenciaMayorista.dir/Bibliotecas/Venta.cpp.obj: dyndep
+
+build CMakeFiles/HerenciaMayorista.dir/Bibliotecas/VentaWeb.cpp.obj: dyndep
+
+build CMakeFiles/HerenciaMayorista.dir/Bibliotecas/VentaTienda.cpp.obj: dyndep
+
+build CMakeFiles/HerenciaMayorista.dir/Bibliotecas/Empresa.cpp.obj: dyndep
+

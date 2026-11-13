@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/HerenciaMayorista.dir/Bibliotecas/VentaWeb.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
